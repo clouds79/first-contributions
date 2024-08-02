@@ -239,6 +239,7 @@ Yulia Lantzberg
 - [Devansh Vaidya](https://github.com/Devansh-Vaidya/) ** First Open-Source Contribution | It's just the beginning! **
 - [Peter Gabriel Bersamina](https://github.com/Gabewingman) **Hi, just letting you all know. I'am part of this now. Have a nice day!**
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
+- [aman](https://github.com/clouds79) **please smilee**
 -[Mutsa Murapa](https://github.com/mue864)
 - [Edwin Parejas](https://github.com/edwinparejas) **Testing my contribution on GitHub!**
 -[daniela](https://github.com/dggtn9) **Testing my contribution on GitHub!**
